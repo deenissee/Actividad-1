@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1692636368 source:c:\users\denii\onedrive\escritorio\act.1prueba\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	"Paqueteria.h"
+
+1692636368 c:\users\denii\onedrive\escritorio\act.1prueba\include\paqueteria.h
+	"Paquete.h"
+	<iostream>
+
+1692635573 c:\users\denii\onedrive\escritorio\act.1prueba\include\paquete.h
+	<iostream>
+
+1692635573 source:c:\users\denii\onedrive\escritorio\act.1prueba\src\paquete.cpp
+	"Paquete.h"
+
+1692636476 source:c:\users\denii\onedrive\escritorio\act.1prueba\src\paqueteria.cpp
+	"Paqueteria.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<stdlib.h>
+
+1692636370 source:d:\act.1prueba\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	"Paqueteria.h"
+
+1692636370 d:\act.1prueba\include\paqueteria.h
+	"Paquete.h"
+	<iostream>
+
+1692635574 d:\act.1prueba\include\paquete.h
+	<iostream>
+
+1692635574 source:d:\act.1prueba\src\paquete.cpp
+	"Paquete.h"
+
+1692656654 source:d:\act.1prueba\src\paqueteria.cpp
+	"Paqueteria.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<stdlib.h>
+
